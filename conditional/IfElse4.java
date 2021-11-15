@@ -1,4 +1,4 @@
-//write a program to check the whether the given character is lowercase .
+//write a program to check the whether the given character is lowercase done .
 class IfElse4{
  public static void main(String[] args){
     char j='a';
