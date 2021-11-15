@@ -1,0 +1,12 @@
+//write a program to check the whether the given character is .
+class IfElse4{
+ public static void main(String[] args){
+    char j='a';
+     if(j=='1'){
+         System.out.println("the given charater contains lowercase");
+     }
+     else{
+       System.out.println("the given character contains special charater");
+     }
+ }
+}

@@ -1,0 +1,17 @@
+class One{
+ public  void display(){
+  System.out.println("i am from one");
+ }
+}
+class Two extend One{
+   public  void display(){
+     System.out.println("i am from two");
+   }
+}
+class MethodOverriding{
+ Public static void main(String[] args){
+     Two a=new Two();
+     a.display();
+ }
+}
+    
